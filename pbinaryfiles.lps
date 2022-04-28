@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="pbinaryfiles.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ubinaryfiles.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="68"/>
+        <CursorPos X="22" Y="96"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="14">
+      <Position>
+        <Filename Value="ubinaryfiles.pas"/>
+        <Caret Line="22" Column="20"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinaryfiles.pas"/>
+        <Caret Line="27" Column="20"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinaryfiles.pas"/>
+        <Caret Line="40" Column="13" TopLine="12"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinaryfiles.pas"/>
+        <Caret Line="43" Column="12" TopLine="12"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinaryfiles.pas"/>
+        <Caret Line="42" Column="41" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinaryfiles.pas"/>
+        <Caret Line="37" Column="11" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinaryfiles.pas"/>
+        <Caret Line="58" Column="16" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinaryfiles.pas"/>
+        <Caret Line="54" Column="24" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinaryfiles.pas"/>
+        <Caret Line="55" Column="19" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinaryfiles.pas"/>
+        <Caret Line="71" Column="20" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinaryfiles.pas"/>
+        <Caret Line="77" Column="3" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinaryfiles.pas"/>
+        <Caret Line="90" Column="20" TopLine="56"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinaryfiles.pas"/>
+        <Caret Line="56" Column="15" TopLine="56"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinaryfiles.pas"/>
+        <Caret Line="57" Column="15" TopLine="50"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinaryfiles.pas"/>
+        <Caret Line="99" Column="3" TopLine="67"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
